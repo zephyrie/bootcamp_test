@@ -1,0 +1,1 @@
+## Utilizing the existing MedNist example or Day 1 Assignment for Spleen segmentation.  Take that model and implement an inference pipeline using the MONAI Deploy App SDK.  
